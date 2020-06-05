@@ -532,9 +532,6 @@ body {
     .menu-sidebar.active {
         transform: translateX(0%);
     }
-    .search {
-        display: none;
-    }
 }
 
 
